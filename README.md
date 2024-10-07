@@ -35,15 +35,16 @@ In ChatCoin, you can chat with any AI characters just like chatting with your fr
 
 Additionally, you can also invest the [character tokens](broken-reference) of those potential characters at the early stage, to achieve a high return.&#x20;
 
+## AI + Meme: Character Token
+
+Today, many AI character apps offer fun features, but few combine the enjoyment of AI characters with community and value. As the anime fanbase grows and interactions with virtual characters become more varied, people are more likely to feel a strong connection with those characters.
+
+**Character Token (aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.** Every creator can launch a character token for each of their AI characters.
+
+{% content-ref url="character-token-ctoken.md" %}
+[character-token-ctoken.md](character-token-ctoken.md)
+{% endcontent-ref %}
+
 ## Supported Platform
 
 PC, Mobile (IOS\&Android) and Telegram Mini Apps.
-
-## Links
-
-* Official Website: [chatcoin.app](https://chatcoin.app)
-* PWA(Progressive Web App): [play.chatcoin.app](https://play.chatcoin.app)
-* Telegram Mini App: [https://t.me/ChatCoinAppBot](https://t.me/ChatCoinAppBot)
-* Official Channel: [https://t.me/ChatCoinAnn](https://t.me/ChatCoinAnn)
-* X: [https://x.com/chatcoinapp](https://x.com/chatcoinapp)
-* Community:  [https://t.me/ChatCoinCommunity](https://t.me/ChatCoinCommunity)

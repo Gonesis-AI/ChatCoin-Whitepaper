@@ -8,4 +8,12 @@
 * [Character](character/README.md)
   * [Attributes](character/attributes.md)
   * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
-  * [Character Token (CToken)](character/character-token-ctoken.md)
+* [Character Token (CToken)](character-token-ctoken.md)
+
+## Links
+
+* [Web App](https://play.chatcoin.app)
+* [TG Mini App](https://t.me/ChatCoinAppBot)
+* [Website](https://chatcoin.app)
+* [X](https://x.com/chatcoinapp)
+* [Community](https://t.me/ChatCoinCommunity)
