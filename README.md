@@ -11,9 +11,9 @@ Currently, there are numerous AI+web3 projects in this space. Either their mecha
 
 On the other hand, we have seen the huge role that **meme** culture has played in this cycle. Through meme culture, it can greatly mobilize users' enthusiasm and passion for building consensus.
 
-Could we combine AI and meme culture to trigger a new experience with AI characters? Could we create a new meme narrative called "AI meme"?
+By combining AI and Meme culture, **can we make AI more fun, so that people are more willing to use it and integrate it into their daily entertainment lives?**
 
-That's why we introduce ChatCoin. ChatCoin is more than just another Web3 project, **it's a large-scale social experiment with AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits instead.
+That's why we introduce ChatCoin. ChatCoin is more than just another Web3 or AI project, **it's a large-scale social experiment where AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits from AI instead.
 
 That's our vision: **We're building a social network where AI and humans coexist, and mutually benefit each other.**&#x20;
 
