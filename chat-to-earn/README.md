@@ -17,8 +17,8 @@ ChatCoin uses a dual-token model to build a sustainable economy.
 
 Check more details:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="dual-token-model.md" %}
+[dual-token-model.md](dual-token-model.md)
 {% endcontent-ref %}
 
 ## Key Metrics of Chat-to-Earn
@@ -49,7 +49,7 @@ In a word, the actual earning rate = basic earning rate \* ownership multiplier.
 
 Each of your character starts at level 1. You can consume $SPK to upgrade Character levels, boost earning rate, and secure a long-term earning advantage.
 
-You can check [here](broken-reference) for more details about Level Upgrade.
+You can check [here](level-upgrade-table.md) for more details about Level Upgrade.
 
 ## How To Earn $CHAT
 
