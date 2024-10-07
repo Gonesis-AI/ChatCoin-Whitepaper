@@ -17,8 +17,8 @@ ChatCoin uses a dual-token model to build a sustainable economy.
 
 Check more details:
 
-{% content-ref url="dual-token-model.md" %}
-[dual-token-model.md](dual-token-model.md)
+{% content-ref url="tokenomics/" %}
+[tokenomics](tokenomics/)
 {% endcontent-ref %}
 
 ## Key Metrics of Chat-to-Earn
