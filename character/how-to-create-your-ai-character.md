@@ -30,7 +30,7 @@
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 8: You can learn about what a [character token](broken-reference) is with a simple explanation. Or press the "Benefits" button for full details.
+### Step 8: You can learn about what a [character token](../character-token-ctoken.md) is with a simple explanation. Or press the "Benefits" button for full details.
 
 * Our Character token is launching soon. Users who create a public character can stay tuned for the official announcement to find out when Ctoken will officially launch.
 

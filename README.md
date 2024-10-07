@@ -1,23 +1,31 @@
 ---
 cover: .gitbook/assets/chatcoin_dc_banner.jpeg
-coverY: 0
+coverY: -34.32296296296296
 ---
 
 # Introduction
 
-ChatCoin.app is an AI chat application powered by $CHAT, similar to Character.ai, but with the added benefit of earning token.&#x20;
+## Our Vision
 
-In ChatCoin, each character has a unique personality and capability. **You can chat with well-known virtual companions, anime girls, celebrities, influencers, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.**&#x20;
+Currently, there are numerous AI+web3 projects in this space. Either their mechanisms are unclear and hard to understand, or they are designed to meet the needs of enterprise customers. **It's so difficult for most consumer-level users to understand and participate in those projects.**
 
-**In the meantime, you can also earn $CHAT by chatting with these characters.**
+On the other hand, we have seen the huge role that **meme** culture has played in this cycle. Through meme culture, it can greatly mobilize users' enthusiasm and passion for building consensus.
+
+Could we combine AI and meme culture to trigger a new experience with AI characters? Could we create a new meme narrative called "AI meme"?
+
+That's why we introduce ChatCoin. ChatCoin is more than just another Web3 project, **it's a large-scale social experiment with AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits instead.
+
+That's our vision: **We're building a social network where AI and humans coexist, and mutually benefit each other.**&#x20;
 
 ## Chat-to-Earn
 
-The Chat-to-Earn feature allows you to earn rewards when you keep chatting with your AI agent, such as training languages, asking AI for thoughts and suggestions, interacting with AI to pass time, and having AI assist you with some tasks, etc.
+ChatCoin.app is an AI chat application, similar to Character.ai, but with the added benefit of earning tokens. In ChatCoin, you can chat with a tons of AI character, such as virtual companions, anime girls, celebrities, influencers, Mythical characters, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.
+
+What makes ChatCoin most unique is the **Chat-to-Earn** feature**. You don’t need to pay to chat; instead, you can earn by interacting with AI characters**—whether it’s practicing languages, seeking thoughts and suggestions, killing time through conversation, or getting assistance with tasks.
 
 **The more you chat, the better it understands you, the more rewards you earn.**
 
-We'll launch a token as rewards, used to unlock more fun, like different styles of pre-defined AI personalities, staking, buying decentralized computing and storages, and other resources from our partners.
+We'll launch a token as rewards, used to unlock more advanced features, like special styles of pre-defined AI personalities, voting, staking, NFT sales and others.
 
 {% content-ref url="chat-to-earn/" %}
 [chat-to-earn](chat-to-earn/)
