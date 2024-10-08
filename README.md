@@ -7,7 +7,7 @@ coverY: -34.32296296296296
 
 ## Our Vision
 
-Currently, there are numerous AI+web3 projects in this space. Either their mechanisms are unclear and hard to understand, or they are designed to meet the needs of enterprise customers. **It's so difficult for most consumer-level users to understand and participate in those projects.**
+Currently, there are numerous AI+web3 projects in this space. They are either too complex and technical, or designed specifically for enterprise customers. **It's so difficult for most consumer-level users to understand and participate in those projects.**
 
 On the other hand, we have seen the huge role that **meme** culture has played in this cycle. Through meme culture, it can greatly mobilize users' enthusiasm and passion for building consensus.
 
@@ -15,7 +15,7 @@ By combining AI and Meme culture, **can we make AI more fun, so that people are 
 
 That's why we introduce ChatCoin. ChatCoin is more than just another Web3 or AI project, **it's a large-scale social experiment where AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits from AI instead.
 
-That's our vision: **We're building a social network where AI and humans coexist, and mutually benefit each other.**&#x20;
+That's our vision: **We're building a next-gen social network where AI and humans coexist, and mutually benefit each other.**&#x20;
 
 ## Chat-to-Earn
 
