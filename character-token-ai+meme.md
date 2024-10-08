@@ -2,7 +2,7 @@
 description: When AI meets Meme.
 ---
 
-# Character Token (CToken)
+# Character Token (AI+Meme)
 
 {% hint style="info" %}
 This feature is still under development, and coming soon.
@@ -10,9 +10,11 @@ This feature is still under development, and coming soon.
 
 ## Introduction
 
-**CToken,** also **Character Token,** is a native coin associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.
+**Character Token (aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.**&#x20;
 
-Characters can issue tokens at an initial price. **The token price adjusts according to a predefined bonding curve**: as more users buy, the price increases. Users can explore fresh characters and identify those poised to become popular. By purchasing tokens early, they support creators and can profit as the character's popularity grows.
+Every creator can launch a meme token for each of their AI characters. Imagine Friend.tech + Pump.fun but specifically for AI Characters.&#x20;
+
+Creators can issue tokens at an initial price. **The token price adjusts according to a predefined bonding curve**: as more users buy, the price increases. Users can explore fresh characters and identify those poised to become popular. By purchasing tokens early, they support creators and can profit as the character's popularity grows.
 
 ## How It Works
 

@@ -33,7 +33,7 @@ We'll launch a token as rewards, used to unlock more advanced features, like spe
 
 ## UGC: User-Generated Characters
 
-All users are able to create their own customizable characters, and issue [character tokens](character-token-ctoken.md) for them.&#x20;
+All users are able to create their own customizable characters, and issue [character tokens](character-token-ai+meme.md) for them.&#x20;
 
 Imagine **friend.tech** tailored for AI characters: the more popular your characters, the more valuable they become. We are creating innovative social networks that integrate effortlessly with AI.
 
@@ -41,7 +41,7 @@ Imagine **friend.tech** tailored for AI characters: the more popular your charac
 
 Today, many AI character apps offer fun features, but few combine the enjoyment of AI characters with community and value. As the anime fanbase grows and interactions with virtual characters become more varied, people are more likely to feel a strong connection with those characters.
 
-[**Character Token**](character-token-ctoken.md) **(aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.** Every creator can launch a character token for each of their AI characters.
+[**Character Token**](character-token-ai+meme.md) **(aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.** Every creator can launch a character token for each of their AI characters.
 
 ## Supported Platform
 

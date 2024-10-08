@@ -10,7 +10,7 @@
 * [Character](character/README.md)
   * [Attributes](character/attributes.md)
   * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
-* [Character Token (CToken)](character-token-ctoken.md)
+* [Character Token (AI+Meme)](character-token-ai+meme.md)
 
 ## Links
 
