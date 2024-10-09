@@ -1,6 +1,6 @@
 # $SPK
 
-### How to Get $SPK
+## How to Get $SPK
 
 Currently, $SPK can be earned by these ways:
 
@@ -10,7 +10,7 @@ Currently, $SPK can be earned by these ways:
 * Engage in occasional events,
 * Provide high-quality feedbacks.
 
-### Utilities of $SPK
+## Utilities of $SPK
 
 $SPK has a range of utilities in ChatCoin:
 
