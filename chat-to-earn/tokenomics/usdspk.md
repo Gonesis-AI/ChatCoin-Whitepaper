@@ -1,5 +1,9 @@
 # $SPK
 
+## What is $SPK
+
+**$SPK**(Spark) is the utility tokens(aka points) with an unlimited supply. It can be only obtained and used in app.&#x20;
+
 ## How to Get $SPK
 
 Currently, $SPK can be earned by these ways:
@@ -14,8 +18,8 @@ Currently, $SPK can be earned by these ways:
 
 $SPK has a range of utilities in ChatCoin:
 
-* **(Mainly) Deposite to earn $CHAT.**
-* Upgrade the level of AI characters.
+* **(Mainly) Deposite and burning to earn $CHAT.**
+* Increase the earning rate of AI characters.
 * Unlock more intriguing AI characters.
 * Unlock more advanced and hidden features.
 * More...
