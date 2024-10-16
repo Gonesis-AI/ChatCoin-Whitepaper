@@ -26,6 +26,8 @@ layout:
 
 When you own an **Traveler** NFT and continuously interact and communicate with it, it gradually becomes you. You can freely forge connections with the real world, and leverage decentralized computing power to continuously enhance your traveler personality.
 
+Official X: [https://x.com/TravelerPFP](https://x.com/TravelerPFP)
+
 ## Overview
 
 * **Status: Coming soon.**
