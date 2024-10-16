@@ -12,6 +12,14 @@
   * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
 * [Character Token (AI+Meme)](character-token-ai+meme.md)
 
+## Genesis NFT
+
+* [Traveler NFT](genesis-nft/traveler-nft.md)
+* [IP & Worldview](genesis-nft/ip-and-worldview/README.md)
+  * [Settings](genesis-nft/ip-and-worldview/settings.md)
+  * [Region](genesis-nft/ip-and-worldview/region.md)
+  * [Figures](genesis-nft/ip-and-worldview/figures.md)
+
 ## Links
 
 * [Website](https://chatcoin.app)
