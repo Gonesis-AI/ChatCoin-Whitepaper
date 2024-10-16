@@ -34,14 +34,22 @@ Official X: [https://x.com/TravelerPFP](https://x.com/TravelerPFP)
 * Total Supply: TBA.
 * Mint Price: TBA.
 * Mint Date: TBA.
-
-## Benefits
-
-* Boost multipliers with the Talk-to-Earn reward system.
-* Exclusive official token airdrop and allocation.
+* Benefits
+  * Boost multipliers with the Talk-to-Earn reward system.
+  * Exclusive official token airdrop and allocation.
 
 ## AI Personality
 
-Every **Traveler** has a pre-defined special personality. Only the holder of a certain **Traveler** can activate its special personality and talk with it exclusively.
+Every Traveler has a pre-defined special personality. Only the holder of a certain Traveler can activate its special personality and talk with it exclusively.
 
 You can still shape your Travelers' personalities you own by talking with them, and make them your exclusive companions who know you best.
+
+## Wealth Sovereignty
+
+We ensure that every **Traveler** **AI** possesses wealth sovereignty,
+
+* Each Traveler AI itself is an asset, belonging to a legal entity or individual.
+* Every Traveler AI is allowed to have personal accounts, including bank accounts and digital currency wallets.
+* Every Traveler AI is allowed to accumulate and hold various assets, including physical and virtual assets such as cash, digital currencies, real estate, artworks, NFTs, etc.
+* Every Traveler AI is allowed to autonomously allocate its assets with certain restrictions. The conditions of these restrictions will be set by the AI owner.
+* The owner of the Traveler ultimately holds ownership and disposal rights over the assets held by the AI, enjoys the corresponding rights, and assumes obligations
