@@ -28,6 +28,7 @@ When the funding reaches **2500 $TON** in total (the token price will be \~0.01 
 
 * **2375 $TON (after a 5% graduation fee)** and the remaining supply will be deposited in STON.FI(V1),
 * the LP will be burned so that no one can withdraw the liquidity. This will bring the coin's market cap to **\~11340 $TON (\~$60K).**
+* all the LP revenue will be shared with creators.
 
 ### Trading Fee
 
@@ -35,9 +36,9 @@ When the funding reaches **2500 $TON** in total (the token price will be \~0.01 
   * **0.5% for creators.**
   * 0.5% for ChatCoin,
 * After graduation: 0.4% for each transaction:
-  * **0.2% for creators,**
+  * **0.2% for creators** (from LP),
   * 0.1% for ChatCoin,
-  * 0.1% for ston.fi.&#x20;
+  * 0.1% for Ston.fi.&#x20;
 
 ## Benefit for CToken Holders
 
