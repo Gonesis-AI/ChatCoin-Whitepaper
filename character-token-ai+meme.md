@@ -35,9 +35,9 @@ When the funding reaches **2500 $TON** in total (the token price will be \~0.01 
 * Before graduation: 1% for each transaction:
   * **0.5% for creators.**
   * 0.5% for ChatCoin,
-* After graduation: 0.4% for each transaction:
+* After graduation: 0.5% for each transaction:
   * **0.2% for creators** (from LP),
-  * 0.1% for ChatCoin,
+  * 0.2% for ChatCoin,
   * 0.1% for Ston.fi.&#x20;
 
 ## Benefit for CToken Holders
