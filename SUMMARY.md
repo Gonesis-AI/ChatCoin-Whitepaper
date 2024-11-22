@@ -1,16 +1,16 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Character](character/README.md)
+  * [Attributes](character/attributes.md)
+  * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
+* [Character Token (AI+Meme)](character-token-ai+meme.md)
 * [Chat-to-Earn](chat-to-earn/README.md)
   * [Tokenomics](chat-to-earn/tokenomics/README.md)
     * [$SPK](chat-to-earn/tokenomics/usdspk.md)
     * [$CHAT](chat-to-earn/tokenomics/usdchat.md)
   * [Level Upgrade Table](chat-to-earn/level-upgrade-table.md)
   * [Energy Upgrade Table](chat-to-earn/energy-upgrade-table.md)
-* [Character](character/README.md)
-  * [Attributes](character/attributes.md)
-  * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
-* [Character Token (AI+Meme)](character-token-ai+meme.md)
 * [Roadmap](roadmap.md)
 
 ## Genesis NFT

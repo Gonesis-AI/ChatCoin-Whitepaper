@@ -31,6 +31,26 @@ That's why we introduce ChatCoin. ChatCoin is more than just another Web3 or AI 
 
 That's our vision: **We're building a next-gen social network where AI and humans coexist, and mutually benefit each other.**&#x20;
 
+## UGC: User-Generated Characters
+
+All users are able to create their own customizable characters, and issue [character tokens](character-token-ai+meme.md) for them.&#x20;
+
+Imagine **friend.tech** tailored for AI characters: the more popular your characters, the more valuable they become. We are creating innovative social networks that integrate effortlessly with AI.
+
+{% content-ref url="character/" %}
+[character](character/)
+{% endcontent-ref %}
+
+## AI + Meme: Character Token
+
+Today, many AI character apps offer fun features, but few combine the enjoyment of AI characters with community and value. As the anime fanbase grows and interactions with virtual characters become more varied, people are more likely to feel a strong connection with those characters.
+
+[**Character Token**](character-token-ai+meme.md) **(aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.** Every creator can launch a character token for each of their AI characters.
+
+{% content-ref url="character-token-ai+meme.md" %}
+[character-token-ai+meme.md](character-token-ai+meme.md)
+{% endcontent-ref %}
+
 ## Chat-to-Earn
 
 ChatCoin.app is an AI chat application, similar to Character.ai, but with the added benefit of earning tokens. In ChatCoin, you can chat with a tons of AI character, such as virtual companions, anime girls, celebrities, influencers, Mythical characters, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.
@@ -44,18 +64,6 @@ We'll launch a token as rewards, used to unlock more advanced features, like spe
 {% content-ref url="chat-to-earn/" %}
 [chat-to-earn](chat-to-earn/)
 {% endcontent-ref %}
-
-## UGC: User-Generated Characters
-
-All users are able to create their own customizable characters, and issue [character tokens](character-token-ai+meme.md) for them.&#x20;
-
-Imagine **friend.tech** tailored for AI characters: the more popular your characters, the more valuable they become. We are creating innovative social networks that integrate effortlessly with AI.
-
-## AI + Meme: Character Token
-
-Today, many AI character apps offer fun features, but few combine the enjoyment of AI characters with community and value. As the anime fanbase grows and interactions with virtual characters become more varied, people are more likely to feel a strong connection with those characters.
-
-[**Character Token**](character-token-ai+meme.md) **(aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.** Every creator can launch a character token for each of their AI characters.
 
 ## Supported Platform
 
