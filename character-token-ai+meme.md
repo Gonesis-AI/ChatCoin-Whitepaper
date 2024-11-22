@@ -4,10 +4,6 @@ description: When AI meets Meme.
 
 # Character Token (AI+Meme)
 
-{% hint style="info" %}
-This feature is still under development, and coming soon.
-{% endhint %}
-
 ## Introduction
 
 **Character Token (aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.**&#x20;

@@ -1,6 +1,20 @@
 ---
-cover: .gitbook/assets/chatcoin_dc_banner.jpeg
-coverY: -34.32296296296296
+cover: .gitbook/assets/jp_banner.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Introduction
