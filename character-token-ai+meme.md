@@ -1,12 +1,12 @@
 ---
-description: When AI meets Meme.
+description: Launch your AI character with a token.
 ---
 
 # Character Token (AI+Meme)
 
 ## Introduction
 
-**Character Token (aka CToken)** is a native fungible token on the blockchain. **It's a meme token of an AI character, which represents the financial value of a certain AI character.**&#x20;
+**Character Token (aka CToken)** is a native fungible token on the blockchain. **It's a token of an AI character, which represents the financial value of a certain AI character.**&#x20;
 
 Every creator can launch a meme token for each of their AI characters. Imagine Friend.tech + Pump.fun but specifically for AI Characters.&#x20;
 

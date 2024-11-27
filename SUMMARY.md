@@ -23,8 +23,9 @@
 
 ## Links
 
+* [TG Mini App](https://t.me/ChatCoinAppBot)
 * [Website](https://chatcoin.app)
 * [Web App](https://play.chatcoin.app)
-* [TG Mini App](https://t.me/ChatCoinAppBot)
 * [X](https://x.com/chatcoinapp)
 * [Community](https://t.me/ChatCoinCommunity)
+* [TG Channel](https://t.me/ChatCoinAnn)

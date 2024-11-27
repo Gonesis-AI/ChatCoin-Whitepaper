@@ -44,4 +44,4 @@
 
 * **Make at least one chat to your character** to make it live to the public, so other users can start using it.
 * After you've made your first chat, **please wait 10 minutes for the character to update in our Discover section.** You’ll be able to search for your character’s name in Discover after 10 minutes.
-* For any changes you could always edit your characters in your profile - Creations, please do not hesitate to reach us in our community https://t.me/ChatCoinCommunity/1
+* For any changes you could always edit your characters in your profile - Creations, please do not hesitate to reach us in our [community](https://t.me/ChatCoinCommunity/1).

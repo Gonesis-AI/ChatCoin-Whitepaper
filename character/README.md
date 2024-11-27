@@ -8,23 +8,25 @@ You can ask them for knowledge acquisition, translation, entertainment, content 
 
 ## UGC (User-Generated Character)
 
-{% hint style="info" %}
-This feature is still under development and coming soon.
-{% endhint %}
-
 ChatCoin supports a new kind of UGC, **User-Generated Character.**&#x20;
 
 **User-Generated Character** is one of the most playable and creative features of ChatCoin. Our intuitive character creation tool requires no technical skills, allowing users to easily design unique characters from scratch or personalize existing ones based on their ideas.
 
 **What's different is that creators can earn from their creation in ChatCoin.**
 
-Any characters can issue [Character Tokens](broken-reference), a kind of meme coin that reflects the intrinsic value of a character. Users can buy or sell character tokens with a pre-defined bonding curve anytime, making the ecosystem dynamic and interactive.
+Any characters can issue [Character Tokens](../character-token-ai+meme.md), a kind of meme coin that reflects the intrinsic value of a character. Users can buy or sell character tokens with a pre-defined bonding curve anytime, making the ecosystem dynamic and interactive.
+
+{% content-ref url="how-to-create-your-ai-character.md" %}
+[how-to-create-your-ai-character.md](how-to-create-your-ai-character.md)
+{% endcontent-ref %}
 
 ## Key Attributes
 
 We use a set of simple attribute fields to describe a character’s setting and intended behavior. This makes each character interpretable and customizable.
 
-Check out [here](broken-reference) for more details.
+{% content-ref url="attributes.md" %}
+[attributes.md](attributes.md)
+{% endcontent-ref %}
 
 ## Ownership Bonus
 
