@@ -27,7 +27,7 @@ On the other hand, we have seen the huge role that **meme** culture has played i
 
 By combining AI and Meme culture, **can we make AI more fun, so that people are more willing to use it and integrate it into their daily entertainment lives?**
 
-That's why we introduce ChatCoin. ChatCoin is more than just another Web3 or AI project, **it's a large-scale social experiment where AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits from AI instead.
+That's why we introduce PumpChat. PumpChat is more than just another Web3 or AI project, **it's a large-scale social experiment where AI and meme**. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits from AI instead.
 
 That's our vision: **We're building a next-gen social network where AI and humans coexist, and mutually benefit each other.**&#x20;
 
@@ -53,9 +53,9 @@ Today, many AI character apps offer fun features, but few combine the enjoyment 
 
 ## Chat-to-Earn
 
-ChatCoin.app is an AI chat application, similar to Character.ai, but with the added benefit of earning tokens. In ChatCoin, you can chat with a tons of AI character, such as virtual companions, anime girls, celebrities, influencers, Mythical characters, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.
+PumpChat is an AI chat application, similar to Character.ai, but with the added benefit of earning tokens. In PumpChat, you can chat with a tons of AI character, such as virtual companions, anime girls, celebrities, influencers, Mythical characters, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.
 
-What makes ChatCoin most unique is the **Chat-to-Earn** featur&#x65;**. You don’t need to pay to chat; instead, you can earn by interacting with AI characters**—whether it’s practicing languages, seeking thoughts and suggestions, killing time through conversation, or getting assistance with tasks.
+What makes PumpChat most unique is the **Chat-to-Earn** featur&#x65;**. You don’t need to pay to chat; instead, you can earn by interacting with AI characters**—whether it’s practicing languages, seeking thoughts and suggestions, killing time through conversation, or getting assistance with tasks.
 
 **The more you chat, the better it understands you, the more rewards you earn.**
 
