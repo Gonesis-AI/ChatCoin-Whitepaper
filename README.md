@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/jp_banner.png
+cover: .gitbook/assets/Twitter Banner Pumpchat Japan.png
 coverY: 0
 layout:
   cover:
@@ -55,7 +55,7 @@ Today, many AI character apps offer fun features, but few combine the enjoyment 
 
 ChatCoin.app is an AI chat application, similar to Character.ai, but with the added benefit of earning tokens. In ChatCoin, you can chat with a tons of AI character, such as virtual companions, anime girls, celebrities, influencers, Mythical characters, PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , and others you can imagine.
 
-What makes ChatCoin most unique is the **Chat-to-Earn** feature**. You don’t need to pay to chat; instead, you can earn by interacting with AI characters**—whether it’s practicing languages, seeking thoughts and suggestions, killing time through conversation, or getting assistance with tasks.
+What makes ChatCoin most unique is the **Chat-to-Earn** featur&#x65;**. You don’t need to pay to chat; instead, you can earn by interacting with AI characters**—whether it’s practicing languages, seeking thoughts and suggestions, killing time through conversation, or getting assistance with tasks.
 
 **The more you chat, the better it understands you, the more rewards you earn.**
 

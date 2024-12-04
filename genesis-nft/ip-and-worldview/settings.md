@@ -19,7 +19,7 @@ _Without form, "Gonesis" extends help through a tiny ring._
 
 \
 \
-_For those eager to embark on their journey, "Gonesis" brings the ring to their side. It will guide travelers' paths, chronicle their experiences, and accompany their journey._
+&#xNAN;_&#x46;or those eager to embark on their journey, "Gonesis" brings the ring to their side. It will guide travelers' paths, chronicle their experiences, and accompany their journey._
 
 _Over time, the Gonesis Ring becomes a traveler's emblem._
 
