@@ -13,6 +13,11 @@
   * [Energy Upgrade Table](chat-to-earn/energy-upgrade-table.md)
 * [Roadmap](roadmap.md)
 
+## For Creators
+
+* [Telegram Bot Integration](for-creators/telegram-bot-integration.md)
+* [Open API](for-creators/open-api.md)
+
 ## Genesis NFT
 
 * [Traveler NFT](genesis-nft/traveler-nft.md)
