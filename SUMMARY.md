@@ -5,6 +5,7 @@
   * [Attributes](character/attributes.md)
   * [How to Create Your AI Character](character/how-to-create-your-ai-character.md)
 * [Character Token (AI+Meme)](character-token-ai+meme.md)
+* [Fees](fees.md)
 * [Chat-to-Earn](chat-to-earn/README.md)
   * [Tokenomics](chat-to-earn/tokenomics/README.md)
     * [$SPK](chat-to-earn/tokenomics/usdspk.md)
